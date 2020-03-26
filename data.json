@@ -1,0 +1,88 @@
+{
+  "products" : [
+    {
+      "id" : 1,
+      "name" : "Reptil",
+      "image" : "/src/assets/reptil.jpg",
+      "price" : 10000,
+      "description" : "Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description.",
+      "category": "Karnivora"
+    },
+    {
+      "id" : 2,
+      "name" : "Reptil 2",
+      "image" : "/src/assets/reptil.jpg",
+      "price" : 11000,
+      "description" : "Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description.",
+      "category": "Karnivora"
+    },
+    {
+      "id" : 3,
+      "name" : "Reptil 3",
+      "image" : "/src/assets/reptil.jpg",
+      "price" : 15000,
+      "description" : "Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description.",
+      "category": "Karnivora"
+    },
+    {
+      "id" : 4,
+      "name" : "Reptil 4",
+      "image" : "/src/assets/reptil.jpg",
+      "price" : 1000,
+      "description" : "Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description.",
+      "category": "Herbivora"
+    },
+    {
+      "id" : 5,
+      "name" : "Reptil 5",
+      "image" : "/src/assets/reptil.jpg",
+      "price" : 25000,
+      "description" : "Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description.",
+      "category": "Herbivora"
+    },
+    {
+      "id" : 6,
+      "name" : "Reptil 6",
+      "image" : "/src/assets/reptil.jpg",
+      "price" : 12000,
+      "description" : "Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description.",
+      "category": "Herbivora"
+    },
+    {
+      "id" : 7,
+      "name" : "Reptil 7",
+      "image" : "/src/assets/reptil.jpg",
+      "price" : 11000,
+      "description" : "Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description.",
+      "category": "Omnivora"
+    },
+    {
+      "id" : 8,
+      "name" : "Reptil 8",
+      "image" : "/src/assets/reptil.jpg",
+      "price" : 40000,
+      "description" : "Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description.",
+      "category": "Omnivora"
+    },
+    {
+      "id" : 9,
+      "name" : "Reptil 9",
+      "image" : "/src/assets/reptil.jpg",
+      "price" : 11000,
+      "description" : "Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description. Ini adalah deskripsi. This is Description.",
+      "category": "Omnivora"
+    }
+  ],
+  "categories" : [
+    "Karnivora",
+    "Herbivora",
+    "Omnivora"
+  ],
+  "users" : [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    }
+  ]
+}
